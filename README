@@ -1,0 +1,7 @@
+asm
+
+connect mysql
+
+listen http
+
+output html
